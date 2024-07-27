@@ -1,9 +1,9 @@
-# Logo genarator
+# ReadMe genarator
 ## Description
 
   In this application you are preseneted with a number of question in order to generate a read me page for your github repository.
 
-## video
+## Video Demonstration
 
   https://drive.google.com/file/d/14UOMlMVHtjdkOmyzHl6h_31HdsojhdQQ/view?usp=sharing
 
