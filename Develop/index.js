@@ -21,7 +21,7 @@ const questions = [
     },
     {
         message: 'Please enter the installation instructions for your project(press enter to skip)',
-        name: 'Installation'
+        name: 'installation'
     },
     {
         message: 'Please enter the usage instructions for your project',
@@ -31,7 +31,7 @@ const questions = [
         message: 'Please select the license for your project',
         name: 'license',
         type: 'list',
-        choices: ['MIT','Apache 2.0 License','Eclipse']
+        choices: ['MIT','Apache 2.0','Eclipse','None']
     },
     {
         message: 'Please enter the contribution instructions for your project(press enter to skip)',
