@@ -5,7 +5,8 @@
 
 ## video
 
-    https://drive.google.com/file/d/14UOMlMVHtjdkOmyzHl6h_31HdsojhdQQ/view?usp=sharing
+  <video src="[path/to/video.mp4](https://drive.google.com/file/d/14UOMlMVHtjdkOmyzHl6h_31HdsojhdQQ/view?usp=sharing)" width="320" height="240" controls></video>
+    
 
 ## Table of Contents
 
